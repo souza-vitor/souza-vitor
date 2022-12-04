@@ -1,4 +1,4 @@
-## :wave: Oi, sou o Vitor Souza!
+## :wave: Oi, eu sou o Vitor Souza!
 
 Atualmente eu estou me formando em Analise e Desenvolvimento de Sistemas. Moro no Rio de Janeiro, Brasil.
 
