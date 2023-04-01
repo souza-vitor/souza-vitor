@@ -5,7 +5,7 @@ Atualmente eu estou me formando em Analise e Desenvolvimento de Sistemas. Moro n
 Comecei a estudar programação porque gostava da ideia de poder reproduzir alguns sites que visitava regularmente algum dia. Me vi estudando Web Design desde que
 tive a oportunidade de fazer alguns cursos na área e não parei desde então. :grimacing:
 
-Estou me aperfeiçoando nos fundamentos de Front-end, mas pretendo aprofundar em frameworks como Tailwind CSS e React.js futuramente.
+Estou me aperfeiçoando nos fundamentos de Front-end, mas pretendo aprofundar em frameworks como Tailwind CSS e estou conhecendo algumas bibliotecas e frameworks Javascript como React.js e Angular, por exemplo.
 A longo prazo gostaria aprender Node e conseguir criar aplicativos no Back-end também.
 
 ## Tecnologias que conheço:
