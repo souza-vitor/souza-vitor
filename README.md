@@ -2,7 +2,7 @@
 
 Sou graduado em Analise e Desenvolvimento de Sistemas, trabalho como Suporte Técnico e moro no Rio de Janeiro, Brasil.
 
-Atualmente estou estudando a área de Desenvolvimento Frontend e procuro me especializar.
+Atualmente estou estudando a área de Desenvolvimento Fullstack, mas também me interesso por Infraestrutura(Sysadmin, automação) e Devops.
 
 Gosto de tecnologia desde muito novo, e queria saber como os sites e programas que gostava de usar funcionava no dia a dia. Meu primeiro contato com programação foi com Web Design e desde então venho aprendendo tudo o que posso sobre o mundo tech.
 
