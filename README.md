@@ -1,37 +1,45 @@
-## :wave: Oi, eu sou o Vitor Souza!
+# 👋 Oi, eu sou o Vitor Souza!
+Sou graduado em Análise e Desenvolvimento de Sistemas, trabalho como Suporte Técnico e moro no Rio de Janeiro, Brasil.
 
-Sou graduado em Analise e Desenvolvimento de Sistemas, trabalho como Suporte Técnico e moro no Rio de Janeiro, Brasil.
+Atualmente, estou em transição de carreira para a área de Testes de Software (QA), com foco em automação de testes e garantia da qualidade de sistemas.
 
-Atualmente estou estudando a área de Desenvolvimento Fullstack, mas também me interesso por Infraestrutura(Sysadmin, automação) e Devops.
+Minha experiência me proporcionou uma visão clara sobre os desafios enfrentados por usuários finais, além de fortalecer minhas habilidades em análise de problemas, comunicação e trabalho em equipe, competências que considero essenciais para quem trabalha com QA.
 
-Gosto de tecnologia desde muito novo, e queria saber como os sites e programas que gostava de usar funcionava no dia a dia. Meu primeiro contato com programação foi com Web Design e desde então venho aprendendo tudo o que posso sobre o mundo tech.
+Estou sempre em busca de aprendizado e novas oportunidades para crescer profissionalmente e ajudar a construir softwares melhores!
 
-Atualmente, estou em busca de oportunidades para aprimorar minhas habilidades e conhecimentos, com o objetivo de explorar profundamente as áreas de React.js e UX Design. 
+## 🚀 Tecnologias & Ferramentas
 
+Ferramentas e plataformas:
 
+Robot Framework
 
-## Tecnologias que conheço:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+Selenium
 
-## Estou Aprendendo:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="80" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-          
-          
-          
+Pytest
 
-## Tenho interesse em aprender:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/>
-          
-          
-          
+Azure DevOps
 
+Git & GitHub
 
-<div>
-<a href="https://github.com/souza-vitor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza-vitor&layout=compact&langs_count=7&theme=merko"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=souza-vitor&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
+Postman
+
+TestRail
+
+VS Code
+
+Jira
+
+## 📚 Atualmente estudando
+Automação de Testes: Robot Framework, Selenium, Pytest
+
+Testes de API: Postman, REST Assured
+
+Fundamentos de QA: CTFL, práticas de testes manuais e exploratórios
+
+CI/CD: GitHub Actions, Azure DevOps Pipelines
+
+Python para automação
+
           
           
 
